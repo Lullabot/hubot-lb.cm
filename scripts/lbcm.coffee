@@ -23,7 +23,7 @@ module.exports = (robot) ->
         longUrl: msg.match[3]
       .get() (err, res, body) ->
         if err
-          msg.send "Shortening for #{msg.match[3]} returned #{err}"
+          msg.send "Shortening returned #{err}"
           return
 
         response = JSON.parse body
@@ -41,7 +41,7 @@ module.exports = (robot) ->
          shortUrl: msg.match
        .get() (err, res, body) ->
          if err
-           msg.send "Lookup for {#msg.match} returned #{err}"
+           msg.send "Lookup returned #{err}"
            return
 
          response = JSON.parse body
