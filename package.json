@@ -1,11 +1,11 @@
 {
   "name": "hubot-lb.cm",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Hubot script for creating or expanding lb.cm shortened URLs.",
   "keywords": [
     "hubot",
     "lb.cm",
-    "Lullabot"
+    "lullabot"
   ],
   "author": "Dave Reid <dave.reid@lullabot.com>",
   "repository": {
