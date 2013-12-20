@@ -3,7 +3,9 @@ hubot-lb.cm
 
 [Hubot](https://github.com/github/hubot) script for creating or expanding [lb.cm](http://lb.cm/) shortened URLs.
 
-## Installing
+[![NPM version](https://badge.fury.io/js/hubot-lb.cm.png)](http://badge.fury.io/js/hubot-lb.cm) [![Dependency check](https://david-dm.org/okize/hubot-chicken-dance.png)](https://david-dm.org/Lullabot/hubot-lb.cm)
+
+## Installation
 
 1. Add `hubot-lb.cm` as a dependency to your hubot:
     `"hubot-lb.cm": ""`
