@@ -1,7 +1,7 @@
 hubot-lb.cm
 ===========
 
-Hubot script for creating or expanding (lb.cm)[http://lb.cm/] shortened URLs.
+Hubot script for creating or expanding [lb.cm](http://lb.cm/) shortened URLs.
 
 ## Installing
 
