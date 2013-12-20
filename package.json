@@ -1,0 +1,20 @@
+{
+  "name": "hubot-lb.cm",
+  "version": "0.0.1",
+  "description": "Hubot script for interacting with lb.cm shortened URLs.",
+  "keywords": [
+    "hubot",
+    "lb.cm"
+  ],
+  "author": "Dave Reid <dave.reid@lullabot.com> (http://www.davereid.net/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lullabot/hubot-lb.cm"
+  },
+  "license": "GPLv2",
+  "readmeFilename": "README.md",
+  "main": "index.coffee",
+  "dependencies": {
+    "hubot": ">= 2.4.0"
+  }
+}
